@@ -1,9 +1,7 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
 
 ## Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=naolmolla)](https://github.com/naolmolla/github-profile-trophy)
+
 ## Skills
 - Java
 - Node.js
