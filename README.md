@@ -1,6 +1,6 @@
 
 ## Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=naolmolla)](https://github.com/naolmolla/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NaolMolla)](https://github.com/NaolMolla/github-profile-trophy)
 
 ## Skills
 - Java
